@@ -1,0 +1,6 @@
+Your submit script should also contain resource allocation parameters. Namely, —nodes and —ntasks-per-node. Since you have not specified nodes, it reserves 1 for the job, which is enough for 1,2 and 4 cores, but not for 64 cores. The maximum no. of cores on a single node here is 24. That’s why your job was rejected for 64 cores. The code would work for following directives:
+
+--nodes=4
+
+--ntasks-per-node=16
+
