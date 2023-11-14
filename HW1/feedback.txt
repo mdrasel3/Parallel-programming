@@ -1,0 +1,1 @@
+You can use squeue (or more generally, squeue -u <username>) to get the node info. You can then ssh into that and use lscpu to get information.
