@@ -1,0 +1,96 @@
+MPI_Bcast time(seconds) for rank  2: 0.014563
+MPI_Bcast time(seconds) for rank  3: 0.014528
+MPI_Bcast time(seconds) for rank  1: 0.014549
+MPI_Bcast time(seconds) for rank  9: 0.015954
+MPI_Bcast time(seconds) for rank 11: 0.016806
+MPI_Bcast time(seconds) for rank 12: 0.017620
+MPI_Bcast time(seconds) for rank 13: 0.017559
+MPI_Bcast time(seconds) for rank 14: 0.017656
+MPI_Bcast time(seconds) for rank 15: 0.017724
+MPI_Bcast time(seconds) for rank  4: 0.017851
+MPI_Bcast time(seconds) for rank  6: 0.017530
+MPI_Bcast time(seconds) for rank  7: 0.017677
+MPI_Bcast time(seconds) for rank  5: 0.017757
+MPI_Bcast time(seconds) for rank  0: 0.020019
+MPI_Bcast time(seconds) for rank 35: 0.022600
+MPI_Bcast time(seconds) for rank 32: 0.022709
+MPI_Bcast time(seconds) for rank 34: 0.022635
+MPI_Bcast time(seconds) for rank 33: 0.022608
+MPI_Bcast time(seconds) for rank  8: 0.023293
+MPI_Bcast time(seconds) for rank 10: 0.023292
+MPI_Bcast time(seconds) for rank 19: 0.023477
+MPI_Bcast time(seconds) for rank 17: 0.008741
+MPI_Bcast time(seconds) for rank 42: 0.018063
+MPI_Bcast time(seconds) for rank 43: 0.021880
+MPI_Bcast time(seconds) for rank 40: 0.025538
+MPI_Bcast time(seconds) for rank 41: 0.017569
+MPI_Bcast time(seconds) for rank 45: 0.025781
+MPI_Bcast time(seconds) for rank 47: 0.025830
+MPI_Bcast time(seconds) for rank 36: 0.025882
+MPI_Bcast time(seconds) for rank 37: 0.025746
+MPI_Bcast time(seconds) for rank 38: 0.025785
+MPI_Bcast time(seconds) for rank 39: 0.019247
+MPI_Bcast time(seconds) for rank 29: 0.027219
+MPI_Bcast time(seconds) for rank 30: 0.027134
+MPI_Bcast time(seconds) for rank 31: 0.027582
+MPI_Bcast time(seconds) for rank 27: 0.007619
+MPI_Bcast time(seconds) for rank 24: 0.007076
+MPI_Bcast time(seconds) for rank 25: 0.004738
+MPI_Bcast time(seconds) for rank 26: 0.011773
+MPI_Bcast time(seconds) for rank 18: 0.012724
+MPI_Bcast time(seconds) for rank 16: 0.028338
+MPI_Bcast time(seconds) for rank 28: 0.029719
+MPI_Bcast time(seconds) for rank 21: 0.023582
+MPI_Bcast time(seconds) for rank 22: 0.012067
+MPI_Bcast time(seconds) for rank 44: 0.032139
+MPI_Bcast time(seconds) for rank 46: 0.032135
+MPI_Bcast time(seconds) for rank 20: 0.039300
+MPI_Bcast time(seconds) for rank 23: 0.021113
+my_Bcast_Tree time(seconds) for rank  2:0.008867
+my_Bcast_Tree time(seconds) for rank 15:0.011118
+my_Bcast_Tree time(seconds) for rank  7:0.017251
+my_Bcast_Tree time(seconds) for rank  4:0.008793
+my_Bcast_Tree time(seconds) for rank  6:0.014413
+my_Bcast_Tree time(seconds) for rank  0:0.032437
+my_Bcast_Tree time(seconds) for rank  1:0.004042
+my_Bcast_Tree time(seconds) for rank  8:0.022495
+my_Bcast_Tree time(seconds) for rank  9:0.020294
+my_Bcast_Tree time(seconds) for rank 11:0.018030
+my_Bcast_Tree time(seconds) for rank 12:0.010395
+my_Bcast_Tree time(seconds) for rank 13:0.010432
+my_Bcast_Tree time(seconds) for rank 14:0.007797
+my_Bcast_Tree time(seconds) for rank 10:0.015941
+my_Bcast_Tree time(seconds) for rank  5:0.009057
+my_Bcast_Tree time(seconds) for rank  3:0.010866
+my_Bcast_Tree time(seconds) for rank 40:0.022501
+my_Bcast_Tree time(seconds) for rank 18:0.009072
+my_Bcast_Tree time(seconds) for rank 33:0.004049
+my_Bcast_Tree time(seconds) for rank 19:0.011078
+my_Bcast_Tree time(seconds) for rank 42:0.015949
+my_Bcast_Tree time(seconds) for rank 26:0.020572
+my_Bcast_Tree time(seconds) for rank 39:0.017242
+my_Bcast_Tree time(seconds) for rank 22:0.018367
+my_Bcast_Tree time(seconds) for rank 41:0.020283
+my_Bcast_Tree time(seconds) for rank 28:0.016519
+my_Bcast_Tree time(seconds) for rank 44:0.010393
+my_Bcast_Tree time(seconds) for rank 21:0.013451
+my_Bcast_Tree time(seconds) for rank 45:0.010420
+my_Bcast_Tree time(seconds) for rank 20:0.013040
+my_Bcast_Tree time(seconds) for rank 46:0.007805
+my_Bcast_Tree time(seconds) for rank 27:0.032339
+my_Bcast_Tree time(seconds) for rank 35:0.010865
+my_Bcast_Tree time(seconds) for rank 24:0.031215
+my_Bcast_Tree time(seconds) for rank 34:0.008885
+my_Bcast_Tree time(seconds) for rank 25:0.024502
+my_Bcast_Tree time(seconds) for rank 32:0.032439
+my_Bcast_Tree time(seconds) for rank 31:0.016743
+my_Bcast_Tree time(seconds) for rank 47:0.011109
+my_Bcast_Tree time(seconds) for rank 16:0.032469
+my_Bcast_Tree time(seconds) for rank 36:0.008766
+my_Bcast_Tree time(seconds) for rank 17:0.005101
+my_Bcast_Tree time(seconds) for rank 37:0.009061
+my_Bcast_Tree time(seconds) for rank 29:0.016189
+my_Bcast_Tree time(seconds) for rank 38:0.014401
+my_Bcast_Tree time(seconds) for rank 30:0.013430
+my_Bcast_Tree time(seconds) for rank 43:0.018056
+my_Bcast_Tree time(seconds) for rank 23:0.030288

@@ -1,0 +1,6 @@
+[node13:787800:0:787800] Caught signal 11 (Segmentation fault: address not mapped to object at address (nil))
+malloc(): corrupted top size
+[node13:787800] *** Process received signal ***
+[node13:787800] Signal: Aborted (6)
+[node13:787800] Signal code:  (-6)
+slurmstepd: error: *** JOB 105196 ON node13 CANCELLED AT 2023-11-11T21:23:50 ***

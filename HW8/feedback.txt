@@ -1,0 +1,2 @@
+Your Cartesian setup is ok. However, the matrix distribution is buggy. The MPI_Scatter just sends batches of 500 objects from the matrix to different processes. This does not give the grid distribution required for the Cartesian communicator. A simple way could be to compute the coordinates of the destination process as: dest_rank_i = i/100 and dest_rank_j = j/50 and then compute the rank as dest_rank_i * 4 + dest_rank_j. 
+
